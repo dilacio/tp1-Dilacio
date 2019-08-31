@@ -1,0 +1,9 @@
+C:\Users\gdilacio.NBBASAR605\source\repos\SysAcad\SysAcad\obj\Debug\SysAcad.csprojAssemblyReference.cache
+C:\Users\gdilacio.NBBASAR605\source\repos\SysAcad\SysAcad\obj\Debug\SysAcad.Properties.Resources.resources
+C:\Users\gdilacio.NBBASAR605\source\repos\SysAcad\SysAcad\obj\Debug\SysAcad.csproj.GenerateResource.cache
+C:\Users\gdilacio.NBBASAR605\source\repos\SysAcad\SysAcad\obj\Debug\SysAcad.csproj.CoreCompileInputs.cache
+C:\Users\gdilacio.NBBASAR605\source\repos\SysAcad\SysAcad\bin\Debug\SysAcad.exe.config
+C:\Users\gdilacio.NBBASAR605\source\repos\SysAcad\SysAcad\bin\Debug\SysAcad.exe
+C:\Users\gdilacio.NBBASAR605\source\repos\SysAcad\SysAcad\bin\Debug\SysAcad.pdb
+C:\Users\gdilacio.NBBASAR605\source\repos\SysAcad\SysAcad\obj\Debug\SysAcad.exe
+C:\Users\gdilacio.NBBASAR605\source\repos\SysAcad\SysAcad\obj\Debug\SysAcad.pdb

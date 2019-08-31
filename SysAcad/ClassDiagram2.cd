@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SysAcad.Alumno">
+    <Position X="0.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Alumno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SysAcad.Aula">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAgAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Aula.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SysAcad.Ayudante">
+    <Position X="5.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ayudante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SysAcad.Carrera">
+    <Position X="7.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Carrera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SysAcad.Comision">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgEAAAAAAAAAAAAQAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Comision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SysAcad.Cursada">
+    <Position X="11.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAgAEAAAAAAAAAAAQAABAAAAAAABAIEAA=</HashCode>
+      <FileName>Cursada.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SysAcad.Edificio">
+    <Position X="9.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAACAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Edificio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SysAcad.Examen">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAEAACAAA=</HashCode>
+      <FileName>Examen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SysAcad.Inscripcion">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Inscripcion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SysAcad.Inscripcion_Carrera" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Inscripcion_Carrera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SysAcad.Inscripcion_Materia" Collapsed="true">
+    <Position X="3" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Inscripcion_Materia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SysAcad.Materia">
+    <Position X="11.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Materia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SysAcad.Persona">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAhAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SysAcad.PlanEstudio">
+    <Position X="7.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAgAAAAAAAAAAAAAQAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>PlanEstudio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SysAcad.Profesor">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Profesor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SysAcad.Provincia">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Provincia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SysAcad.Sede">
+    <Position X="7.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAgAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sede.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
